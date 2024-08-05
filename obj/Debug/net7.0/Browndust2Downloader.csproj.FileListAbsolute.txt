@@ -1,0 +1,17 @@
+C:\Users\wange\Desktop\Browndust2Downloader\bin\Debug\net7.0\Browndust2Downloader.exe
+C:\Users\wange\Desktop\Browndust2Downloader\bin\Debug\net7.0\Browndust2Downloader.deps.json
+C:\Users\wange\Desktop\Browndust2Downloader\bin\Debug\net7.0\Browndust2Downloader.runtimeconfig.json
+C:\Users\wange\Desktop\Browndust2Downloader\bin\Debug\net7.0\Browndust2Downloader.dll
+C:\Users\wange\Desktop\Browndust2Downloader\bin\Debug\net7.0\Browndust2Downloader.pdb
+C:\Users\wange\Desktop\Browndust2Downloader\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\wange\Desktop\Browndust2Downloader\obj\Debug\net7.0\Browndust2Downloader.csproj.AssemblyReference.cache
+C:\Users\wange\Desktop\Browndust2Downloader\obj\Debug\net7.0\Browndust2Downloader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wange\Desktop\Browndust2Downloader\obj\Debug\net7.0\Browndust2Downloader.AssemblyInfoInputs.cache
+C:\Users\wange\Desktop\Browndust2Downloader\obj\Debug\net7.0\Browndust2Downloader.AssemblyInfo.cs
+C:\Users\wange\Desktop\Browndust2Downloader\obj\Debug\net7.0\Browndust2Downloader.csproj.CoreCompileInputs.cache
+C:\Users\wange\Desktop\Browndust2Downloader\obj\Debug\net7.0\Browndus.354E612F.Up2Date
+C:\Users\wange\Desktop\Browndust2Downloader\obj\Debug\net7.0\Browndust2Downloader.dll
+C:\Users\wange\Desktop\Browndust2Downloader\obj\Debug\net7.0\refint\Browndust2Downloader.dll
+C:\Users\wange\Desktop\Browndust2Downloader\obj\Debug\net7.0\Browndust2Downloader.pdb
+C:\Users\wange\Desktop\Browndust2Downloader\obj\Debug\net7.0\Browndust2Downloader.genruntimeconfig.cache
+C:\Users\wange\Desktop\Browndust2Downloader\obj\Debug\net7.0\ref\Browndust2Downloader.dll

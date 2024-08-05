@@ -1,0 +1,6 @@
+C:\Users\wange\Desktop\exe\Browndust2Downloader.exe
+C:\Users\wange\Desktop\exe\Browndust2Downloader.dll
+C:\Users\wange\Desktop\exe\Browndust2Downloader.deps.json
+C:\Users\wange\Desktop\exe\Browndust2Downloader.runtimeconfig.json
+C:\Users\wange\Desktop\exe\Browndust2Downloader.pdb
+C:\Users\wange\Desktop\exe\Newtonsoft.Json.dll
